@@ -1,0 +1,68 @@
+body {
+    background-color: black;
+}
+div{
+    height: 450px;
+    width: 55%;
+    background-color: rgb(144, 254, 93);
+    position: absolute;
+    border-radius: 60%;
+    transform: translate(-50%,-50%);
+    top: 50%;
+    left: 50%;
+}
+div h1{
+
+    font-size: 50px;
+    color: rgb(152, 61, 40);
+}
+div{
+    height: 500px;
+    width: 70%;
+    background-color: rgb(0, 254, 114);
+    /* position: absolute;
+    transform: translate(-50%,-50%);
+    top: 50%;
+    left: 50%; */
+}
+div h1{
+
+    font-size: 80px;
+    color: rgb(170, 57, 31);
+}
+.countr
+{
+
+    height: 35%;
+    width: 30%;
+    background-color: rgb(255, 255, 255);
+    margin: auto;
+    border-radius: 40%;
+    /* position: absolute;
+    transform: translate(-50%,-50%);
+    top: 50%;
+    left: 50%; */
+}
+div h2{
+    font-size: 100px;
+    padding-top: 0%;
+    color: rgb(243, 189, 89);
+}
+button
+{
+    border:1px solid black;
+    /* border-radius: 5px; */
+    padding: 10px 20px;
+    border-radius: 50% 50%;
+    background-color: white;
+    font-size: 15px;
+   
+}   
+div h2{
+    font-size: 100px;
+    padding-top: 0%;
+}
+.btn
+{
+    padding: 50px;
+}
